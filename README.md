@@ -20,3 +20,10 @@ ii) After downloading Anaconda, Launch "Jupyter Notebook" from Start Menu -> Ana
 iii) Move to the directory on "Jupyter Notebook" where you have stored the .ipynb file.
 
 iv) Double click to open the File on "Jupyter Notebook" software.
+
+v) The Jupyter notebook shall reside under the folder "Wrangling_and_Visualizing_Musical_Data". 
+   You can download the Wrangling_and_Visualizing_Musical_Data.zip file and unzip at your favourite location to see the notebook.
+
+vi) The datasets which are used on this project shall reside under the folder Wrangling_and_Visualizing_Musical_Data\_\datasets
+
+vii) All the required images shall reside under folder Wrangling_and_Visualizing_Musical_Data\_\img
