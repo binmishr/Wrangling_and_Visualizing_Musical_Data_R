@@ -6,8 +6,9 @@ Apply data-wrangling and visualization tools from the tidyverse to musical data.
 
 Before taking on this project its recommend that you have the following knowledges in R:  
 
-i)Uses of Tidyverse Package in R 
-ii)Data Visualization with ggplot2 in R  
+i)Uses of Tidyverse Package in R
+
+ii)Data Visualization with ggplot2 in R
 
 How to Open notebook.ipynb Project File 
 =======================================  
